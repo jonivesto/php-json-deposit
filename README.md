@@ -8,4 +8,4 @@
 
 # set.php post params:
 - token: any password you choose to setup
-- json: json value you want to overwrite in ´safe/data.json´
+- json: json as string you want to overwrite in ´safe/data.json´
